@@ -28,14 +28,14 @@ const uint8_t EMITTER_A = 11;
 const uint8_t EMITTER_B = 12;
 
 // the sensor ADC channels in case we have no special use for a given channel
-const uint8_t SENSOR_0 = A0;
-const uint8_t SENSOR_1 = A1;
-const uint8_t SENSOR_2 = A2;
-const uint8_t SENSOR_3 = A3;
-const uint8_t SENSOR_4 = A4;
-const uint8_t SENSOR_5 = A5;
-const uint8_t SWITCHES_PIN = A6;
-const uint8_t BATTERY_PIN = A7;
+// const uint8_t SENSOR_0 = A0;
+// const uint8_t SENSOR_1 = A1;
+// const uint8_t SENSOR_2 = A2;
+// const uint8_t SENSOR_3 = A3;
+// const uint8_t SENSOR_4 = A4;
+// const uint8_t SENSOR_5 = A5;
+// const uint8_t SWITCHES_PIN = A6;
+// const uint8_t BATTERY_PIN = A7;
 
 /******************************************************************************
  * The switch input is driven by a resistor chain forming a potential divider.
